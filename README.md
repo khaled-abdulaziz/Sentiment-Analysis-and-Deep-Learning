@@ -127,7 +127,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow keras nltk p
 ```python
 import nltk
 nltk.download('punkt')
-nltk.download('stopwords')
+nltk.download('stopwords').
 ```
 
 4. Open and run the notebook
