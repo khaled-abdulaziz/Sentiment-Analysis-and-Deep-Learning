@@ -2,7 +2,7 @@
 
 A multi-stage data science project that predicts gold prices by combining Arabic Twitter sentiment analysis with historical financial data, using a CNN-LSTM deep learning model. The core research question is: **does adding public sentiment from Arabic tweets improve gold price prediction accuracy?**
 
----
+----
 
 ## 📌 Project Overview
 
